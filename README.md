@@ -1,2 +1,3 @@
-# ssg-gb25
-A small static site for gb25
+# GBIF 24th Governing Board Meeting website
+
+In progress.
