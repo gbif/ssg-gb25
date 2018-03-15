@@ -1,9 +1,9 @@
 ---
 title: Home
 description: Welcome the 25rd meeting of the GBIF Governing Board 
-image: http://via.placeholder.com/1500x600
-imageTitle: Placeholder image description
-imageLink: http://via.placeholder.com
+image: /images/GB25_07.jpg
+imageTitle: Waterfoot Beach by Nicolas Raymond
+imageLink: http://freestock.ca/europe_g97-waterfoot_beach__hdr_p884.html
 ---
 
 # Welcome to GB25 Ireland 
