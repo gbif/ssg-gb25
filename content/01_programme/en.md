@@ -14,7 +14,7 @@ imageLink: http://freestock.ca/europe_g97-annestown_beach_kiln__hdr_p2103.html
 -----------------------
 
 ## Printable PDF programme
-Download a printable one-page overview of GB24 by clicking [here](/raw/GB24_programme.pdf) or by clicking on the image below.
+Download a printable one-page overview of GB24 by clicking [here](/raw/GB25_programme.pdf) or by clicking on the image below.
 
 ```styledYaml
 templates:
@@ -123,13 +123,5 @@ Venue: TBC
 Time: TBC
 
 *ADD DESCRIPTION HERE*
-
-
-```styledYaml
-images:
-- title: Vallisaari by Tuomo Hayrinen (CC-BY-2.0)
-  url: /images/Vallisaari.jpg
-  link: reference-location
-```
 
 *Price: TBC*
