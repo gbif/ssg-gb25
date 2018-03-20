@@ -12,7 +12,7 @@ imageLink: http://freestock.ca/europe_g97-waterfoot_beach__hdr_p884.html
 _Kilkenny, Ireland_
 _15-19 October 2018_</p>
 
-INSTITUTION NAME, on behalf of Ireland, is pleased to host the **25th meeting (GB25) of the GBIF Governing Board** and warmly welcomes all delegations to Kilkenny. 
+The National Biodiversity Data Centre, on behalf of Ireland, is pleased to host the **25th meeting (GB25) of the GBIF Governing Board** and warmly welcomes all delegations to Kilkenny. 
 
 The official Governing Board meeting will take place on 16-17 Ocober 2018. 
 
