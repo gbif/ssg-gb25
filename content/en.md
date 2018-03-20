@@ -22,7 +22,7 @@ Also, the host kindly invites everybody to participate in the National Symposium
 
 Attendees may also sign up to conclude their visit on an excursion on 19 October. 
 
-Please see the [Programme information page](https://gb25.gbif.org/en/programme/) for detailed information on all events. 
+Please see the [Programme information page](/programme/) for detailed information on all events. 
 
 **Registration for the events will close on 3 October 2018**
 
