@@ -41,9 +41,9 @@ Ireland
 
 ```styledYaml
 images: 
-- title: University of Helsinki Main Building by Ari Aalto (CC By 2.0)
-  url: /images/University.jpg
-  link: reference-location
+- title: Kilkenny Castle by brianfagan (CC By 2.0)
+  url: /images/Castle.jpg
+  link: https://www.flickr.com/photos/diamondace/14999163006/in/photolist-oRqCAJ-dxeJHe-Ufc3ej-UqBJv7-9KHMS7-fUDKKx-aDtoeH-oAY8sG-UsWemq-oAYqQN-
 ```
 
 *	Icebreaker (15 October)
@@ -71,9 +71,7 @@ Check the [map](https://gb25.gbif.org/en/travel-accommodation/#map) for hotel lo
 ## Map
 
 Click on the map image to open in full screen view.
-<iframe src="https://drive.google.com/open?id=18XVb-5R7NGnTOtmXecioO5jKklaN4YOw&usp=sharing" width="640" height="480" style="height:480px"></iframe>
-
-
+<iframe src="https://www.google.com/maps/d/embed?mid=18XVb-5R7NGnTOtmXecioO5jKklaN4YOw" width="640" height="480" style="height:480px"></iframe>
 
 
 
