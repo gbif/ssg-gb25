@@ -14,7 +14,8 @@ imageLink: http://freestock.ca/europe_g97-annestown_beach_kiln__hdr_p2103.html
 -----------------------
 
 ## Printable PDF programme
-Download a printable one-page overview of GB24 by clicking [here](/raw/GB25_programme.pdf) or by clicking on the image below.
+Download a printable one-page overview of GB24 by clicking [here](/raw/GB25_programme.pdf) or by clicking on the image below. 
+*IMAGE AND PDF TO BE UPDATED - CHECK WITH LOCAL ORGANIZER*
 
 ```styledYaml
 templates:
@@ -117,7 +118,7 @@ Venue: Kilbride Suite, Kilkenny Ormonde Hotel
 Time: TBC
 Venue: TBC
 
-*ADD DESCRIPTION HERE*
+*ADD DESCRIPTION HERE - ALSO CHECK WITH LOCAL ORGANIZER IF IT WILL BE A 2-DAY EVENT*
 
 **Excursion: ADD DESCRIPTION HERE**
 Time: TBC
