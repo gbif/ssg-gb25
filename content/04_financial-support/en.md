@@ -19,7 +19,8 @@ Applications received after the deadline will not be considered
 
 -	Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants representing developing countries and in good standing in regard to GBIF financial contributions. 
 
-...*(For this purpose, developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to the 2013 World Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period. See list of developing countries [here](https://gb25.gbif.org/raw/GBIF_VP_developing_countries.pdf)).*...
+
+*(For this purpose, developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to the 2013 World Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period. See list of developing countries [here](https://gb25.gbif.org/raw/GBIF_VP_developing_countries.pdf)).*
 
 -	Support is primarily intended for Heads of Delegation. However, a Participant may alternatively request support for a different delegate to attend in place of the Head of Delegation.  In such cases, a written confirmation of this reassignment by the Head of Delegation must accompany the application form.  
 -	Only one delegate per delegation is eligible to receive support.
