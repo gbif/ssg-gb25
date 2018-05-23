@@ -108,7 +108,8 @@ GB25 participants are responsible for preparing their own travel documentation r
 
 You can find information on entering Ireland on WEBSITE.
 
-Please note that a Schengen visa or UK visa is not valid for travel to Ireland. See more information on visa requirements and travel documents from the Department of Foreign Affairs and Trade: [https://www.dfa.ie/travel/visas/visas-for-ireland/](https://www.dfa.ie/travel/visas/visas-for-ireland/).
+### Visa
+Please note that a Schengen visa or UK visa is not valid for travel to Ireland. See more information on visa requirements and travel documents from the Department of Foreign Affairs and Trade: [https://www.dfa.ie/travel/visas/visas-for-ireland/](https://www.dfa.ie/travel/visas/visas-for-ireland/). If you need a visa to enter Ireland, we recommend that you start the application process well in advance of the meeting. 
 
 If you require an official letter of invitation for the meetings, please contact [GB25@gbif.org](mailto:GB25@gbif.org)
 
