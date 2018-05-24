@@ -115,7 +115,7 @@ If you require an official letter of invitation for the meetings, please contact
 
 ### Insurance
 
-Participants are advised to ensure appropriate travel insurance for travel to Finland.
+Participants are advised to ensure appropriate travel insurance for travel to Ireland.
 
 -----------------------
 
