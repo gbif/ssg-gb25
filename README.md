@@ -1,3 +1,3 @@
-# GBIF 24th Governing Board Meeting website
+# GBIF 25th Governing Board Meeting website
 
 In progress.
