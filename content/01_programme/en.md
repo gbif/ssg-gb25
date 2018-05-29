@@ -14,8 +14,8 @@ imageLink: http://freestock.ca/europe_g97-annestown_beach_kiln__hdr_p2103.html
 -----------------------
 
 ## Printable PDF programme
-Download a printable one-page overview of GB24 by clicking [here](/raw/GB25_programme.pdf) or by clicking on the image below. 
-*IMAGE AND PDF TO BE UPDATED - CHECK WITH LOCAL ORGANIZER*
+Download a printable one-page overview of GB24 by clicking [here](/raw/gbif-gb25-schedule.pdf) or by clicking on the image below. 
+
 
 ```styledYaml
 templates:
@@ -96,29 +96,40 @@ Venue: Slaney Suite, Kilkenny Ormonde Hotel
 
 *The meeting is open to members of the GBIF Executive Committee*
 
-**Informal information session & networking event**
+**Concluding meeting reception**
 Time: 17:00-19:30
-Venue: To be confirmed
+Venue: Kilkenny Ormonde Hotel
 
 *All Node Managers, committee members and Governing Board delegates are invited to join the casual networking event*
 
 
 ### Thursday 18 October 2018
 
-**Symposium: Bridging data and information needs from local to global"**
+**Public symposium: "Biodiversity loss in a changing world: local data, global action"**
 Time: 09:30-17:30
 Venue: Kilbride Suite, Kilkenny Ormonde Hotel
 
-*ADD DESCRIPTION HERE*
+This public symposium is a full-day event with talks from invited international and Irish guest speakers touching upon the loss of biodiversity at a global to a local level. The discussions will revolve around how data that is currently attained and collated at both scales is being used to investigate this worldwide issue and how it can furthermore provide the necessary information to inform policy and mobilize stakeholders in biodiversity conservation on the ground.
 
 
 ### Friday 19 October 2018
 
-**High-level Technical Workshop**
-Time: TBC
-Venue: TBC
+**Technical Workshop on Biodiversity Informatics and Species Distribution Modelling Day 1**
+Time: 09:30-17:30
+Venue: Garden Suite, Kilkenny Ormonde Hotel
+Price: €100 (Includes lunch and refreshments on both days)
 
-*ADD DESCRIPTION HERE - ALSO CHECK WITH LOCAL ORGANIZER IF IT WILL BE A 2-DAY EVENT*
+Lead by Prof. Nicklaus E. Zimmermann, the two day course will cover best practice approaches to utilising GBIF-mediated biodiversity data and species distribution modelling.  Conducted though R, the focal areas covered will include effective data management, assessing data quality and quantifying bias, data visualisation, habitat suitability and distribution modelling. 
+
+Prof. Niklaus E. Zimmermann is Head of the Land Use Dynamic Research Unit of the Swiss Federal Research Institute WSL and Adjunct Professor in Macroecology at the ETH Zurich. His research areas include vegetation ecology, vegetation dynamics, and plant species diversity at various spatial and temporal scales. In the past few years, he has focused on modelling biophysical constraints of species and community distribution along spatial (real) and theoretical gradients, and on modelling species competitive dynamics on large spatial scales. This research required the interaction of plant ecophysiology, ecological theory, biophysical ecology and involved mainly GIS-analyses, programming and statistics. 
+
+Prof. Zimmermann has authored 176 papers and since 2014 has been ranked by the Web of Science as one of the top 1% of highly cited researchers worldwide in Ecology.  Sections of the workshop will be based on his latest book published in 2017 by Cambridge University Press: Antoine Guisan, Wilfried Thuiller, Niklaus E. Zimmermann; Habitat Suitability and Distribution Models: With Applications in R.
+
+### Saturday 20 October 2018
+
+**Technical Workshop on Biodiversity Informatics and Species Distribution Modelling Day 2**
+Time: 09:30-17:30
+Venue: Garden Suite, Kilkenny Ormonde Hotel
 
 **Excursion: ADD DESCRIPTION HERE**
 Time: TBC
