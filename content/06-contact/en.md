@@ -18,4 +18,14 @@ Phone: +45 35 32 14 70
 
 **Irish host**
 
+**National Biodiversity Data Centre**
 
+Beechfield House
+WIT West Campus
+Carriganore
+Waterford
+X91 PE03
+Phone: +35351306240 
+
+[info@biodiversityireland.ie](mailto:info@biodiversityireland.ie)
+[www.biodiversityireland.ie](http://www.biodiversityireland.ie)
