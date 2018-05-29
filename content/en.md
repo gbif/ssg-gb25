@@ -18,7 +18,7 @@ The official Governing Board meeting will take place on 16-17 Ocober 2018.
 
 GBIF Governance committee meetings will take place on 15 October. 
 
-Also, the host kindly invites everybody to participate in the National Symposium “Bridging data and information needs from local to global”, on 18 October. 
+Also, the host kindly invites everybody to participate in a public symposium **"Biodiversity loss in a changing world: local data, global action"**, on 18 October. 
 
 Attendees may also sign up to conclude their visit on an excursion on 19 October. 
 

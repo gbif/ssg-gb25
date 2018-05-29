@@ -146,13 +146,13 @@ Click on the map image to open in full screen view.
 ### Directly from Dublin Airport - Bus
 
 The most convenient means of public transportation is by bus which leaves directly from Dublin airport. Your approximate journey time from the airport to Kilkenny City is 135-150 minutes. 
-The company you will be dealing with is **[J.J. Kavanagh & Sons](http://jjkavanagh.ie)**, and tickets can cost between €15.00 and €20.00 depending on whether you purchase your tickets online or not, and whether you book single or return tickets. If you wish to purchase your bus tickets in advance which we advise that you do, please do so here: http://jjkavanagh.ie/dublin-airport-buses. 
+The company you will be dealing with is [J.J. Kavanagh & Sons](http://jjkavanagh.ie), and tickets can cost between €15.00 and €20.00 depending on whether you purchase your tickets online or not, and whether you book single or return tickets. If you wish to purchase your bus tickets in advance which we advise that you do, please do so here: http://jjkavanagh.ie/dublin-airport-buses. 
 
 **Note:**  Please book your ticket going from Dublin Airport to Kilkenny (Ormonde Street). 
 
 The Bus Shelter at Dublin Airport for passengers taking this service is: Bus Stop 13 (Zone 14) Clonmel Service. 
 
-Download your **[bus timetable](https://jjkavanagh.ie/timetable-detail-page/?RouteNo=717&IsWeb=1&IsCollegeRoute=0&Direction=1&RGrp=Main%20Routes%20%20Airport%20Routes)** here, and your **[Dublin Airport map](https://www.dublinairport.com/car-parks/maps)** here. 
+Download your [bus timetable](https://jjkavanagh.ie/timetable-detail-page/?RouteNo=717&IsWeb=1&IsCollegeRoute=0&Direction=1&RGrp=Main%20Routes%20%20Airport%20Routes) here, and your [Dublin Airport map](https://www.dublinairport.com/car-parks/maps) here. 
 
 
 
