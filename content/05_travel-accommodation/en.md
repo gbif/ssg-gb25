@@ -98,7 +98,7 @@ Ireland
 - Booking code: GBIF
 - Bookings should be made by 31st August at the latest 
 
-Click here to download a copy of the hotel’s accommodation offer which includes information on additional offers and sample food menus.
+[Click here](/raw/pembroke-hotel-brochure.pdf) to download a copy of the hotel’s accommodation offer which includes information on additional offers and sample food menus.
 
 
 
@@ -112,8 +112,6 @@ Ireland
 - Booking: reservations@kilkennyhibernianhotel.com or contact the hotel at +353567771888
 - Booking code: GBIF
 - Bookings should be made by Friday 14th September at the latest
-
-Click here to download a hotel brochure.
 
 
 
@@ -152,7 +150,7 @@ The company you will be dealing with is [J.J. Kavanagh & Sons](http://jjkavanagh
 
 The Bus Shelter at Dublin Airport for passengers taking this service is: Bus Stop 13 (Zone 14) Clonmel Service. 
 
-Download your [bus timetable](https://jjkavanagh.ie/timetable-detail-page/?RouteNo=717&IsWeb=1&IsCollegeRoute=0&Direction=1&RGrp=Main%20Routes%20%20Airport%20Routes) here, and your [Dublin Airport map](https://www.dublinairport.com/car-parks/maps) here. 
+Download your [bus timetable](https://jjkavanagh.ie/timetable-detail-page/?RouteNo=717&IsWeb=1&IsCollegeRoute=0&Direction=1&RGrp=Main%20Routes%20%20Airport%20Routes) here, and your [Dublin Airport map](/images/dublin-airport-map.png) here. 
 
 
 
