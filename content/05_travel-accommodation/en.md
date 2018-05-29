@@ -3,17 +3,10 @@ title: Travel and accommodation
 description: Learn more about the event along with other tips and pointers for those travelling to Ireland.
 image: /images/GB25_01.jpg
 imageTitle: Kilkenny Castle by Bill Bereza
-
-## imageLink: https://www.flickr.com/photos/bizlo/5093799200/in/photolist-8L8439-hxoGcE-do179k-akfdsb-wVPjgG-wVM91W-GbuTDh-g7Usj7-g11nBG-dRsgy1-qE1KA3-qU4ynY-629TYK-Fpomt4-dRmDe8-qpSeue-dnwBgu-qCaTNx-8LbKVo-pb8fwz-pgQnFW-GbuZJo-nWGssD-7ZbE7b-s4eS9p-do1f3s-8NxdRc-a9ircn-BjNb8z-nvQtXG-7ZahE3-7Z8812-rx2C3h-Fposdk-GjEdHr-dxkbMu-dxeFwc-dxeMaX-dxeEXR-dxeHPx-dxeLqz-dxeJHe-dxeHhn-dsTNFW-dsTEtx-dsTKfd-dsTPAq-dsTzka-dsTNNC-dsTtLp/
+imageLink: https://www.flickr.com/photos/bizlo/5093799200/in/photolist-8L8439-hxoGcE-do179k-akfdsb-wVPjgG-wVM91W-GbuTDh-g7Usj7-g11nBG-dRsgy1-qE1KA3-qU4ynY-629TYK-Fpomt4-dRmDe8-qpSeue-dnwBgu-qCaTNx-8LbKVo-pb8fwz-pgQnFW-GbuZJo-nWGssD-7ZbE7b-s4eS9p-do1f3s-8NxdRc-a9ircn-BjNb8z-nvQtXG-7ZahE3-7Z8812-rx2C3h-Fposdk-GjEdHr-dxkbMu-dxeFwc-dxeMaX-dxeEXR-dxeHPx-dxeLqz-dxeJHe-dxeHhn-dsTNFW-dsTEtx-dsTKfd-dsTPAq-dsTzka-dsTNNC-dsTtLp/
+---
 
 # Travel and accommodation
-
-
-<!-- toc -->
-<!-- tocstop -->
-
-
----
 
 ## Venues
 
