@@ -259,57 +259,40 @@ There are a number of ATMs throughout Terminal 1 & Terminal 2, both before and a
 
 **Pharmacies**
 
-1. White’s Pharmacy
-
+1. [White’s Pharmacy](http://www.whitespharmaphoto.ie)
    5 High Street 
-
    Kilkenny
-
    +003537721328
 
    Monday – Saturday: 09:00hrs – 18:00hrs
-
    Sunday: Closed
 
-   [www.whitespharmaphoto.ie](http://www.whitespharmaphoto.ie) 
+   
 
-2. Haven Pharmacy
-
+2. [Haven Pharmacy](http://havenpharmacy.ie/blog/location/haven-pharmacy-oconnells)
    89 High Street
-
    Collegepark
-
    Kilkenny
-
    +00353567721309
 
    Monday – Saturday: 09:00hrs – 18:00hrs
+   Sunday: Closed 
 
-   Sunday: Closed
+   
 
-   <http://havenpharmacy.ie/blog/location/haven-pharmacy-oconnells/> 
-
-3. O’Shea’s Pharmacy,
-
+3. [O’Shea’s Pharmacy](https://www.goldenpages.ie/o-sheas-pharmacy-kilkenny)
    Unit 4
-
    Market Yard
-
    Kilkenny
-
    +00353567751445
 
    Monday – Wednesday: 09:00hrs – 18:00hrs
-
    Thursday – Friday: 09:00hrs – 21:00hrs
-
    Saturday: 09:00hrs – 18:00hrs
-
    Sunday: closed
 
-   <https://www.goldenpages.ie/o-sheas-pharmacy-kilkenny/> 
-
    
+
 
 Smoking is prohibited in any enclosed public places, restaurants, pubs and public transport. 
 
