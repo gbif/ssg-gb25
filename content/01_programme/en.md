@@ -14,7 +14,7 @@ imageLink: http://freestock.ca/europe_g97-annestown_beach_kiln__hdr_p2103.html
 -----------------------
 
 ## Printable PDF programme
-Download a printable one-page overview of GB24 by clicking [here](/raw/gbif-gb25-schedule.pdf) or by clicking on the image below. 
+Download a printable one-page overview of GB25 by clicking [here](/raw/gbif-gb25-schedule.pdf) or by clicking on the image below. 
 
 
 ```styledYaml
@@ -61,7 +61,7 @@ Venue: Slaney Suite, Kilkenny Ormonde Hotel
 
 **Icebreaker**
 Time: 19:30-21:30
-Venue: Kilkenny Castle
+Venue: The Parade Tower, Kilkenny Castle
 
 *All Node Managers, committee members and Governing Board delegates are invited to join the Icebreaker*
 
@@ -109,7 +109,7 @@ Venue: Kilkenny Ormonde Hotel
 Time: 09:30-17:30
 Venue: Kilbride Suite, Kilkenny Ormonde Hotel
 
-This public symposium is a full-day event with talks from invited international and Irish guest speakers touching upon the loss of biodiversity at a global to a local level. The discussions will revolve around how data that is currently attained and collated at both scales is being used to investigate this worldwide issue and how it can furthermore provide the necessary information to inform policy and mobilize stakeholders in biodiversity conservation on the ground.
+This public symposium is a full-day event and will highlight some of the work that GBIF and its global network is doing to mobilise biodiversity data for research and to inform decision making for global biodiversity action. It will also showcase where data has been used as the regional, national and local levels to engage communities and improve knowledge of how biodiversity is changing.
 
 
 ### Friday 19 October 2018
@@ -117,23 +117,40 @@ This public symposium is a full-day event with talks from invited international 
 **Technical Workshop on Biodiversity Informatics and Species Distribution Modelling Day 1**
 Time: 09:30-17:30
 Venue: Garden Suite, Kilkenny Ormonde Hotel
-Price: €100 (Includes lunch and refreshments on both days)
+Price: €100 Standard; €50.00 GBIF Delegate (Limited number of places. Price includes lunch and refreshments on both days)
 
-Lead by Prof. Nicklaus E. Zimmermann, the two day course will cover best practice approaches to utilising GBIF-mediated biodiversity data and species distribution modelling.  Conducted though R, the focal areas covered will include effective data management, assessing data quality and quantifying bias, data visualisation, habitat suitability and distribution modelling. 
+Lead by Prof. Nicklaus E. Zimmermann, the two-day course will cover best practice approaches to utilising GBIF-mediated biodiversity data and species distribution modelling. Conducted though R, the focal areas covered will include effective data management, assessing data quality and quantifying bias, data visualisation, habitat suitability and distribution modelling.
 
-Prof. Niklaus E. Zimmermann is Head of the Land Use Dynamic Research Unit of the Swiss Federal Research Institute WSL and Adjunct Professor in Macroecology at the ETH Zurich. His research areas include vegetation ecology, vegetation dynamics, and plant species diversity at various spatial and temporal scales. In the past few years, he has focused on modelling biophysical constraints of species and community distribution along spatial (real) and theoretical gradients, and on modelling species competitive dynamics on large spatial scales. This research required the interaction of plant ecophysiology, ecological theory, biophysical ecology and involved mainly GIS-analyses, programming and statistics. 
 
-Prof. Zimmermann has authored 176 papers and since 2014 has been ranked by the Web of Science as one of the top 1% of highly cited researchers worldwide in Ecology.  Sections of the workshop will be based on his latest book published in 2017 by Cambridge University Press: Antoine Guisan, Wilfried Thuiller, Niklaus E. Zimmermann; Habitat Suitability and Distribution Models: With Applications in R.
+
+**Excursions**
+
+The host warmly welcomes you to participate in one of the two arranged excursions:  
+
+**Excursion A**: **A Tour of Ireland’s Peatlands** 
+
+Times: TBC
+Price: TBC
+
+Visit a selection of peatland sites in the Irish Midlands, including examples of industrially harvested peatland, previously developed sites which have undergone rehabilitation, and healthy intact raised bog habitats, one site in particular which represents the potential of community driven conservation.
+
+
+
+**Excursion B**: **Kilkenny Heritage Tour** 
+
+Times: TBC
+Price: TBC
+
+For those who wish to discover the rich historical heritage of Kilkenny City. 
+
+------
+
+ [[BM1\]](#_msoanchor_1)Switched from Saturday to Friday
+
+
 
 ### Saturday 20 October 2018
 
 **Technical Workshop on Biodiversity Informatics and Species Distribution Modelling Day 2**
 Time: 09:30-17:30
 Venue: Garden Suite, Kilkenny Ormonde Hotel
-
-**Excursion: ADD DESCRIPTION HERE**
-Time: TBC
-
-*ADD DESCRIPTION HERE*
-
-*Price: TBC*

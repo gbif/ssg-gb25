@@ -7,6 +7,9 @@ imageLink: http://via.placeholder.com
 ---
 
 # Sponsors
+
+The hosting of GB25 of the Global Biodiversity Information Facility in Kilkenny was only possible thanks to the generous sponsorship of the following partners:
+
 <table>
 <tr>
 <td>[![Compass Informatics Logo](/images/compass-informatics-logo.jpg)](http://www.compass.ie)</td>

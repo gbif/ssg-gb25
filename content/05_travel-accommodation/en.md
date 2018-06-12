@@ -27,17 +27,19 @@ Events to take place at the Kilkenny Ormonde Hotel:
 - 16 October: Governing Board Meeting - 1
 - 17 October: Executive Committee Meeting - 2
 - 17 October: Governing Board Meeting - 2
+- 17 October: Concluding Meeting Reception
 - 18 October: Public Symposium
 - 19 October: Technical Workshop - 1
 - 20 Ocotber: Technical Workshop - 2
 
 
 
-**[Kilkenny Castle](http://www.kilkennycastle.ie)**
+**[The Parade Tower, Kilkenny Castle](http://www.kilkennycastle.ie)**
 The Parade
 Collegepark
 Kilkenny
 Ireland
+Location - https://goo.gl/maps/XC9aUYwbvJ82 
 
 ```styledYaml
 images: 
@@ -46,7 +48,7 @@ images:
   link: https://www.flickr.com/photos/diamondace/14999163006/in/photolist-oRqCAJ-dxeJHe-Ufc3ej-UqBJv7-9KHMS7-fUDKKx-aDtoeH-oAY8sG-UsWemq-oAYqQN-
 ```
 
-- 15 Ocotber: Icebreaker Event
+- 15 October: Icebreaker Event
 
 
 
@@ -56,8 +58,11 @@ Saint Mary's Lane
 Collegepark
 Kilkenny
 Ireland
+Location - https://goo.gl/maps/dmztYnNuw5v
 
 - 16 October: Conference Dinner
+
+![Medieval Mile Museum](/images/medieval-mile-museum.jpg "Medieval Mile Museum")
 
 
 
@@ -65,7 +70,7 @@ Ireland
 
 ## Hotels
 
-The local organizers recommend booking a room in one of the hotels mentioned below. There is an accommodation quota in some of the hotels listed below. Please make your reservation in advance directly at the conference hotels by using the specific reservation codes. 
+The local organizers recommend one of the listed hotels for accommodation. For a limited time a number of rooms in each have been pre-booked for delegates. Please make your reservation in advance directly with the conference hotels by using the specific reservation codes. Contact details for each of the hotels have been provided for. 
 
 
 
@@ -88,6 +93,7 @@ Location - [https://goo.gl/QUu2oZ](https://goo.gl/QUu2oZ)
 Patrick Street 
 Kilkenny
 Ireland
+Location - https://goo.gl/maps/2PM9oMk5wNw
 
 **Rates**: 
 
@@ -106,6 +112,7 @@ Ireland
 1 Ormonde Street
 Kilkenny
 Ireland
+Location - https://goo.gl/maps/vgVHL3DSiwj
 
 - Rates: 14th Oct – 18th Oct: €90.00 per double / €80.00 per single
 - Rates: 19th Oct: €160.00 per double / €150.00 per single
@@ -119,6 +126,7 @@ Ireland
 69 John Street 
 Kilkenny
 Ireland
+Location - https://goo.gl/maps/MmLtovmnngQ2
 
 - Rates: 14th – 17th Oct: €90.00 per double / €50.00 per single     
 - Booking: reservations@langtons.ie or +00353567765133
@@ -143,34 +151,21 @@ Click on the map image to open in full screen view.
 
 ### Directly from Dublin Airport - Bus
 
-The most convenient means of public transportation is by bus which leaves directly from Dublin airport. Your approximate journey time from the airport to Kilkenny City is 135-150 minutes. 
-The company you will be dealing with is [J.J. Kavanagh & Sons](http://jjkavanagh.ie), and tickets can cost between €15.00 and €20.00 depending on whether you purchase your tickets online or not, and whether you book single or return tickets. If you wish to purchase your bus tickets in advance which we advise that you do, please do so here: http://jjkavanagh.ie/dublin-airport-buses. 
+Bus is the most convenient means of public transport between Dublin Airport and Kilkenny City. The journey time is approximately 135 – 150 minutes. 
 
-**Note:**  Please book your ticket going from Dublin Airport to Kilkenny (Ormonde Street). 
+The bus company servicing this route is J.J. Kavanagh & Sons, and a single ticket will cost you €15.00 (return: €30.00) when you buy them online. It is recommended that you purchase your bus tickets in advance here: http://jjkavanagh.ie/dublin-airport-buses. 
 
-The Bus Shelter at Dublin Airport for passengers taking this service is: Bus Stop 13 (Zone 14) Clonmel Service. 
+**Note:**  Please book your ticket travelling from Dublin Airport to Kilkenny (Ormonde Street). 
+
+The Bus departs from Dublin Airport at Bus Stop 13 (Zone 14) Clonmel Service. 
 
 Download your [bus timetable](https://jjkavanagh.ie/timetable-detail-page/?RouteNo=717&IsWeb=1&IsCollegeRoute=0&Direction=1&RGrp=Main%20Routes%20%20Airport%20Routes) here, and your [Dublin Airport map](/images/dublin-airport-map.png) here. 
-
-
-
-### Indirectly from Dublin City Centre
-
-- **Bus**: Should delegates be travelling from Dublin City there is a bus service from a number of locations. Here are two: 
-  1. Travel with Dublin Coach from Burgh Quay ([view map](https://goo.gl/maps/38gth7gDLWq)) on the M9 Service. This bus will take you to Kilkenny City (Ormonde Road) for €10.00 single or €20.00 return when you [book online](http://www.buseireann.ie). 
-  2. Travel with J.J. Kavanagh & Sons from either George’s Quay or Heuston Station ([view map](https://goo.gl/maps/3iAArdvap3r)) on the bus that comes from the airport. This bus will take you to Kilkenny City (Ormonde Road) for €9.00 single or €18.00 return when you book online. 
-
-- **Train**: Should delegates be travelling from Dublin City Centre there is a train service from Heuston Station [(view map)](https://goo.gl/maps/3iAArdvap3r) to Kilkenny (MacDonagh) station [(view map)](https://goo.gl/maps/1FRzdRpAqhT2).  
-  1. The train you have to take is the Intercity to Waterford (Plunkett). To download a timetable for this train service please [click here](http://www.irishrail.ie/timetables/station#w). 
-  2. If you wish to book your ticket online [click here](http://www.irishrail.ie).
-
-
 
 ---
 
 ## Getting around in Kilkenny
 
-Thankfully Kilkenny City isn’t actually a city, but merely a large town, so all venues and our listed accommodation options are all within walking distance of one another. With this in mind, getting around shouldn’t be a problem. 
+Thankfully all venues and accommodation options are within short walking distance of one another so getting around shouldn’t be a problem. 
 
 However, if you are in need of some form of transport to get around other than walking, here are some options: 
 
@@ -348,9 +343,7 @@ The Kilkenny Ormonde Hotel provides WiFi for users, as does most other accommoda
 
 ### Opening hours
 
-Shops and department stores are allowed to be open every day of the week, although many businesses do close on Sundays. Opening hours vary.
-
-Banking hours are from 09:00hrs until 16:00hrs, but this can slightly vary between banks.
+Shops and department stores are generally open between 08:30hrs and 18:00hrs, Monday to Saturday. Many shops are closed on Sunday. Banks are generally open between 09:00hrs and 16:00hrs, Monday to Friday. 
 
 
 
@@ -374,8 +367,8 @@ It is advisable to check the weather forecasts close to departure: <https://www.
 
 ## Tourist information
 
-Ireland’s location on the western edge of the European continent in the path of moist Atlantic air and the moderating effect of the Gulf Stream ensure that the island is rarely very hot or very cold. The average October temperature in Kilkenny is a mild 10 degree Celsius.
-
-It must be noted that Ireland’s weather is quite changeable, so delegates should not be surprised if it rains. However long bouts of rain are quite rare.
-
-It is advisable to check the weather forecasts close to departure: <https://www.met.ie/> 
+Visit this website produced by Kilkenny County Council for more information on tourism in the area: http://www.visitkilkenny.ie/ 
+Other tourism websites for Ireland include: 
+•	Tourism Ireland: www.ireland.com
+•	Discover Ireland: www.discoverireland.ie
+•	Fáilte Ireland: www.failteireland.ie
