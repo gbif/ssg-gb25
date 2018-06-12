@@ -145,7 +145,7 @@ For those who wish to discover the rich historical heritage of Kilkenny City.
 
 ------
 
- [[BM1\]](#_msoanchor_1)Switched from Saturday to Friday
+Switched from Saturday to Friday
 
 
 
