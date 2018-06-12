@@ -369,6 +369,6 @@ It is advisable to check the weather forecasts close to departure: <https://www.
 
 Visit this website produced by Kilkenny County Council for more information on tourism in the area: http://www.visitkilkenny.ie/ 
 Other tourism websites for Ireland include: 
-•	Tourism Ireland: www.ireland.com
-•	Discover Ireland: www.discoverireland.ie
-•	Fáilte Ireland: www.failteireland.ie
+•	Tourism Ireland: http://www.ireland.com
+•	Discover Ireland: http://www.discoverireland.ie
+•	Fáilte Ireland: http://www.failteireland.ie
