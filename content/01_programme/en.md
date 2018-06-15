@@ -131,7 +131,7 @@ Price: €100 Standard; €50.00 GBIF Delegate (Limited number of places. Price 
 
 *Lead by Prof. Nicklaus E. Zimmermann, the two-day course will cover best practice approaches to utilising GBIF-mediated biodiversity data and species distribution modelling. Conducted though R, the focal areas covered will include effective data management, assessing data quality and quantifying bias, data visualisation, habitat suitability and distribution modelling.*
 
-*There is a limited number of places for GBIF delegates to attend the Technical Workshop. Anyone interested in attending should send their expression of interest to the GBIF Secretariat at (GB25@gbif.org)[mailto:GB25@gbif.org] by DATE. Please note that there is an attendance fee of €50 for GBIF Delegates.* 
+*There is a limited number of places for GBIF delegates to attend the Technical Workshop. Anyone interested in attending should send their expression of interest to the GBIF Secretariat at [GB25@gbif.org](mailto:GB25@gbif.org) by DATE for consideration. Please note that there is an attendance fee of €50 for GBIF Delegates.* 
 
 
 
