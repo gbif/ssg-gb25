@@ -29,9 +29,14 @@ templates:
 
 ## Summary of events
 
-**Note that all attendance is subject to prior registration.**
+**Note that all attendance is subject to prior registration.** 
+
+You can register [here](../registration/). Before registering, please check if you have the appropriate role to attend the meeting. See the information in italics under each event below. 
+
 
 For address information on the various venues and map, please see the [Travel and accommodation page](../travel-accommodation/).
+
+-----------------------
 
 ### Monday 15 October 2018
 
@@ -55,7 +60,7 @@ Venue: Slaney Suite, Kilkenny Ormonde Hotel
 
 **Executive Committee meeting 1**
 Time: 13:30-17:00
-Venue: Slaney Suite, Kilkenny Ormonde Hotel
+Venue: Stoney Suite, Kilkenny Ormonde Hotel
 
 *The meeting is open to members of the GBIF Executive Committee*
 
@@ -65,6 +70,8 @@ Venue: The Parade Tower, Kilkenny Castle
 
 *All Node Managers, committee members and Governing Board delegates are invited to join the Icebreaker*
 
+
+-----------------------
 
 ### Tuesday 16 October 2018
 
@@ -80,6 +87,7 @@ Venue: Medieval Mile Museum
 
 *All Governing Board delegates and invited observers are invited to join the Dinner*
 
+-----------------------
 
 ### Wednesday 17 October 2018
 
@@ -97,11 +105,12 @@ Venue: Slaney Suite, Kilkenny Ormonde Hotel
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Concluding meeting reception**
-Time: 17:00-19:30
+Time: 19:30-21:30
 Venue: Kilkenny Ormonde Hotel
 
-*All Node Managers, committee members and Governing Board delegates are invited to join the casual networking event*
+*All Node Managers, committee members, observers and Governing Board delegates are invited to join the casual networking event*
 
+-----------------------
 
 ### Thursday 18 October 2018
 
@@ -111,6 +120,7 @@ Venue: Kilbride Suite, Kilkenny Ormonde Hotel
 
 This public symposium is a full-day event and will highlight some of the work that GBIF and its global network is doing to mobilise biodiversity data for research and to inform decision making for global biodiversity action. It will also showcase where data has been used as the regional, national and local levels to engage communities and improve knowledge of how biodiversity is changing.
 
+-----------------------
 
 ### Friday 19 October 2018
 
@@ -119,7 +129,9 @@ Time: 09:30-17:30
 Venue: Garden Suite, Kilkenny Ormonde Hotel
 Price: €100 Standard; €50.00 GBIF Delegate (Limited number of places. Price includes lunch and refreshments on both days)
 
-Lead by Prof. Nicklaus E. Zimmermann, the two-day course will cover best practice approaches to utilising GBIF-mediated biodiversity data and species distribution modelling. Conducted though R, the focal areas covered will include effective data management, assessing data quality and quantifying bias, data visualisation, habitat suitability and distribution modelling.
+*Lead by Prof. Nicklaus E. Zimmermann, the two-day course will cover best practice approaches to utilising GBIF-mediated biodiversity data and species distribution modelling. Conducted though R, the focal areas covered will include effective data management, assessing data quality and quantifying bias, data visualisation, habitat suitability and distribution modelling.*
+
+*There is a limited number of places for GBIF delegates to attend the Technical Workshop. Anyone interested in attending should send their expression of interest to the GBIF Secretariat at (GB25@gbif.org)[mailto:GB25@gbif.org] by DATE. Please note that there is an attendance fee of €50 for GBIF Delegates.* 
 
 
 
@@ -132,7 +144,7 @@ The host warmly welcomes you to participate in one of the two arranged excursion
 Times: TBC
 Price: TBC
 
-Visit a selection of peatland sites in the Irish Midlands, including examples of industrially harvested peatland, previously developed sites which have undergone rehabilitation, and healthy intact raised bog habitats, one site in particular which represents the potential of community driven conservation.
+*Visit a selection of peatland sites in the Irish Midlands, including examples of industrially harvested peatland, previously developed sites which have undergone rehabilitation, and healthy intact raised bog habitats, one site in particular which represents the potential of community driven conservation.*
 
 
 
@@ -141,12 +153,10 @@ Visit a selection of peatland sites in the Irish Midlands, including examples of
 Times: TBC
 Price: TBC
 
-For those who wish to discover the rich historical heritage of Kilkenny City. 
+*For those who wish to discover the rich historical heritage of Kilkenny City.*
 
-------
 
-Switched from Saturday to Friday
-
+-----------------------
 
 
 ### Saturday 20 October 2018
