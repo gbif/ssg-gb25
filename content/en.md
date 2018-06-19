@@ -1,9 +1,9 @@
 ---
 title: Home
 description: Welcome the 25rd meeting of the GBIF Governing Board 
-image: /images/GB25_07.jpg
-imageTitle: Waterfoot Beach by Nicolas Raymond
-imageLink: http://freestock.ca/europe_g97-waterfoot_beach__hdr_p884.html
+image: /images/image1.jpg
+imageTitle: 'Romancing Puffins. Love at first sight...' by John O'Brien
+imageLink: 
 ---
 
 # Welcome to GB25 Ireland 
