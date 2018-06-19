@@ -1,9 +1,9 @@
 ---
 title: Meeting documents
 description: Official meeting documents for GB25
-image: /images/GB25_05.jpg
-imageTitle: Connemara by Yannick
-imageLink: https://www.flickr.com/photos/toum-toum/14639632034/in/photolist-oiDWyS-f3Q2Sb-qkV28a-gFFsuX-ehsBx2-7Qst62-gukMQ4-pw4ddk-gNYADe-guk87p-
+image: /images/image3.jpg
+imageTitle: Orange-tip clutching the Cuckoo Flower by Chris Bolton
+imageLink: 
 ---
 
 # Meeting documents
