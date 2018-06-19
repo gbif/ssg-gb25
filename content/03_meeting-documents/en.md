@@ -1,7 +1,7 @@
 ---
 title: Meeting documents
 description: Official meeting documents for GB25
-image: /images/image3.jpg
+image: /images/image3.png
 imageTitle: Orange-tip clutching the Cuckoo Flower by Chris Bolton
 imageLink: 
 ---
