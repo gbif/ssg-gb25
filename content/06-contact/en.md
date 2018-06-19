@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: Learn how to direct questions to the organizers of GB25
-image: /images/image5.jps
+image: /images/image5.jpg
 imageTitle: Winter Sunshine by Brian Wilson
 imageLink: 
 ---
