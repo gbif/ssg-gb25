@@ -1,9 +1,9 @@
 ---
 title: Registration
 description: Official delegates, invited observers and GBIF Secretariat staff must register in advance to attend GB25.
-image: /images/GB25_08.jpg
-imageTitle: Kilkenny by Victor Paul
-imageLink: https://www.flickr.com/photos/victor_paul/21878653030/in/photolist-zkkPiG-fxsh4B-7eSSWA-ajcTop-mropsb-7eNZ6p-4svyCV-pjXi8M-p5yBPn-dWvuvq-
+image: /images/GB25_09.jpg
+imageTitle: Veronica chamaedrys L. by sharondulava 
+imageLink: https://www.inaturalist.org/photos/7463905
 ---
 # Registration
 
