@@ -1,9 +1,9 @@
 ---
 title: Contact
 description: Learn how to direct questions to the organizers of GB25
-image: http://via.placeholder.com/1500x600
-imageTitle: Placeholder image description
-imageLink: http://via.placeholder.com
+image: /images/image5.jps
+imageTitle: Winter Sunshine by Brian Wilson
+imageLink: 
 ---
 
 # Contact the organizers
