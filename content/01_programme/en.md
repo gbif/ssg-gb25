@@ -29,12 +29,14 @@ templates:
 
 ## Summary of events
 
-**Note that all attendance is subject to prior registration.** 
+Below is a summary of all the events associated with GB25. 
 
-You can register [here](../registration/). Before registering, please check if you have the appropriate role to attend the meeting. See the information in italics under each event below. 
+You can register for the events [here](../registration/). Before registering, please check if you have the appropriate role to attend the meeting. See the information in italics under each event below. 
 
 
 For address information on the various venues and map, please see the [Travel and accommodation page](../travel-accommodation/).
+
+**Note that all attendance is subject to prior registration.** 
 
 -----------------------
 
