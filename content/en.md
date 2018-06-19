@@ -2,7 +2,7 @@
 title: Home
 description: Welcome the 25rd meeting of the GBIF Governing Board 
 image: /images/image1.jpg
-imageTitle: 'Romancing Puffins. Love at first sight...' by John O'Brien
+imageTitle: A view by Brian Wilson
 imageLink: 
 ---
 
