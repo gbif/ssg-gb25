@@ -1,9 +1,9 @@
 ---
 title: Programme
 description: Programme the 25rd meeting of the GBIF Governing Board 
-image: /images/GB25_04.jpg
-imageTitle: Annestown Beach Kiln by Nicolas Raymond
-imageLink: http://freestock.ca/europe_g97-annestown_beach_kiln__hdr_p2103.html
+image: /images/image2.jpg
+imageTitle: Romancing Puffins. Love at first sight... by John O'Brien
+imageLink: 
 ---
 
 # Programme
