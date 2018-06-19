@@ -1,9 +1,9 @@
 ---
 title: Sponsors
 description: Sponsors of GB25
-image: http://via.placeholder.com/1500x600
-imageTitle: Placeholder image description
-imageLink: http://via.placeholder.com
+image: /images/image6.jpg
+imageTitle: Boardwalk to infinity by Brian Wilson
+imageLink: 
 ---
 
 # Sponsors
