@@ -318,7 +318,7 @@ The [Health Service Executive (HSE)](http://www.citizensinformation.ie/en/health
 
 The main network providers are Three, Vodafone and eir. 
 
-For more information please visit: <http://prepaid-data-sim-card.wikia.com/wiki/Ireland>. 
+For more information please visit: http://prepaid-data-sim-card.wikia.com/wiki/Ireland. 
 
 The Kilkenny Ormonde Hotel provides WiFi for users, as does most other accommodations. 
 
@@ -342,7 +342,7 @@ Ireland’s location on the western edge of the European continent in the path o
 
 It must be noted that Ireland’s weather is quite changeable, so delegates should not be surprised if it rains. However long bouts of rain are quite rare.
 
-It is advisable to check the weather forecasts close to departure: <https://www.met.ie/> 
+It is advisable to check the weather forecasts close to departure: https://www.met.ie
 
 
 
@@ -350,7 +350,7 @@ It is advisable to check the weather forecasts close to departure: <https://www.
 
 ## Tourist information
 
-Visit this website produced by Kilkenny County Council for more information on tourism in the area: http://www.visitkilkenny.ie/ 
+Visit this website produced by Kilkenny County Council for more information on tourism in the area: http://www.visitkilkenny.ie 
 
 Other tourism websites for Ireland include: 
 •	Tourism Ireland: http://www.ireland.com
