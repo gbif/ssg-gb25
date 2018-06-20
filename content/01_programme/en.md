@@ -72,7 +72,6 @@ Venue: The Parade Tower, Kilkenny Castle
 
 *All Node Managers, committee members and Governing Board delegates are invited to join the Icebreaker*
 
-
 -----------------------
 
 ### Tuesday 16 October 2018
@@ -107,7 +106,7 @@ Venue: Slaney Suite, Kilkenny Ormonde Hotel
 *The meeting is open to members of the GBIF Executive Committee*
 
 **Concluding meeting reception**
-Time: 19:30-21:30
+Time: 17:30-19:30
 Venue: Kilkenny Ormonde Hotel
 
 *All Node Managers, committee members, observers and Governing Board delegates are invited to join the casual networking event*
@@ -120,7 +119,7 @@ Venue: Kilkenny Ormonde Hotel
 Time: 09:30-17:30
 Venue: Kilbride Suite, Kilkenny Ormonde Hotel
 
-This public symposium is a full-day event and will highlight some of the work that GBIF and its global network is doing to mobilise biodiversity data for research and to inform decision making for global biodiversity action. It will also showcase where data has been used as the regional, national and local levels to engage communities and improve knowledge of how biodiversity is changing.
+*This public symposium is a full-day event and will highlight some of the work that GBIF and its global network is doing to mobilise biodiversity data for research and to inform decision making for global biodiversity action. It will also showcase where data has been used at the regional, national and local levels to engage communities and improve knowledge of how biodiversity is changing.*
 
 -----------------------
 
@@ -133,7 +132,7 @@ Price: €100 Standard; €50.00 GBIF Delegate (Limited number of places. Price 
 
 *Lead by Prof. Nicklaus E. Zimmermann, the two-day course will cover best practice approaches to utilising GBIF-mediated biodiversity data and species distribution modelling. Conducted though R, the focal areas covered will include effective data management, assessing data quality and quantifying bias, data visualisation, habitat suitability and distribution modelling.*
 
-*There is a limited number of places for GBIF delegates to attend the Technical Workshop. Anyone interested in attending should send their expression of interest to the GBIF Secretariat at [GB25@gbif.org](mailto:GB25@gbif.org) by DATE for consideration. Please note that there is an attendance fee of €50 for GBIF Delegates.* 
+*There is a limited number of places for GBIF delegates to attend the Technical Workshop. Anyone interested in attending should send their expression of interest to the GBIF Secretariat at [GB25@gbif.org](mailto:GB25@gbif.org) by Monday 06 August 2018 for consideration. Please note that there is an attendance fee of €50 for GBIF Delegates.* 
 
 
 
@@ -156,7 +155,6 @@ Times: TBC
 Price: TBC
 
 *For those who wish to discover the rich historical heritage of Kilkenny City.*
-
 
 -----------------------
 
