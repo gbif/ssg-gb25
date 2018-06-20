@@ -14,7 +14,7 @@ imageLink:
 -----------------------
 
 ## Printable PDF programme
-Download a printable one-page overview of GB25 by clicking [here](/raw/gbif-gb25-schedule.pdf) or by clicking on the image below. 
+Download a printable one-page overview of GB25 by clicking [here](/raw/GB25_programme.pdf) or by clicking on the image below. 
 
 
 ```styledYaml
