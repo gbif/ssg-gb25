@@ -11,7 +11,7 @@ Before registering, we ask you to read the registration requirements listed on t
 
 Please note that your registration is not considered complete until you receive a confirmation email from the GBIF Secretariat, which will list the events for which you successfully registered.
 
-**Note for additional Node delegates**
+**Note for additional delegates**
 Additional delegates who wish to attend the official Governing Board meeting must get approval from their Head of Delegation. The Head of Delegation should notify the GBIF Secretariat at [gb25@gbif.org](mailto:gb25@gbif.org) by 28 September 2018, of any additional delegates. According to the GBIF Rules of Procedure, each Head of Delegation may be accompanied to Governing Board meetings by up to two Additional delegates. 
 
 Click on the button below to register. 
@@ -24,6 +24,7 @@ templates:
     url: https://docs.google.com/forms/d/e/1FAIpQLSfZMap5TuGBCCfz3oEdgtlGzhwSKYJckO6hZcNou_MnmxGktA/viewform?usp=sf_link
     description: Download Word doc
 ```
+
 
 
 
