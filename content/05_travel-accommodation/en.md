@@ -6,14 +6,12 @@ imageTitle: Vixen by Brian Arbuthnot
 imageLink: 
 ---
 
-<!-- toc -->
+# Travel and accommodation
 
+<!-- toc -->
 <!-- tocstop -->
 
 -----------------------
-
-
-# Travel and accommodation
 
 ## Venues
 
