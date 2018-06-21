@@ -80,13 +80,13 @@ Venue: The Parade Tower, Kilkenny Castle
 Time: 09:00-17:00
 Venue: Kilbride Suite, Kilkenny Ormonde Hotel
 
-*The meeting is open to Governing Board delegates and invited observers*
+*The meeting is open to Governing Board delegates and observers*
 
 **Conference Dinner**
 Time: 19:30-22:30
 Venue: Medieval Mile Museum
 
-*All Governing Board delegates and invited observers are invited to join the Dinner*
+*All Governing Board delegates and observers are invited to join the Dinner*
 
 -----------------------
 
@@ -96,12 +96,12 @@ Venue: Medieval Mile Museum
 Time: 09:00-17:00
 Venue: Kilbride Suite, Kilkenny Ormonde Hotel
 
-*The meeting is open to Governing Board delegates and invited observers*
-*The Public Session is open to the public (please notice that registration for this session is required)*
+*The meeting is open to Governing Board delegates and observers*
+*The Public Session is open to the public*
 
 **Executive Committee meeting 2**
 Time: 17:00-19:30
-Venue: Slaney Suite, Kilkenny Ormonde Hotel
+Venue: Stoney Suite, Kilkenny Ormonde Hotel
 
 *The meeting is open to members of the GBIF Executive Committee*
 
@@ -109,7 +109,7 @@ Venue: Slaney Suite, Kilkenny Ormonde Hotel
 Time: 17:30-19:30
 Venue: Kilkenny Ormonde Hotel
 
-*All Node Managers, committee members, observers and Governing Board delegates are invited to join the casual networking event*
+*All Governing Board delegates and observers are invite are invited to join the casual networking event*
 
 -----------------------
 
@@ -132,7 +132,7 @@ Price: €100 Standard; €50.00 GBIF Delegate (Limited number of places. Price 
 
 *Lead by Prof. Nicklaus E. Zimmermann, the two-day course will cover best practice approaches to utilising GBIF-mediated biodiversity data and species distribution modelling. Conducted though R, the focal areas covered will include effective data management, assessing data quality and quantifying bias, data visualisation, habitat suitability and distribution modelling.*
 
-*There is a limited number of places for GBIF delegates to attend the Technical Workshop. Anyone interested in attending should send their expression of interest to the GBIF Secretariat at [GB25@gbif.org](mailto:GB25@gbif.org) by Monday 06 August 2018 for consideration. Please note that there is an attendance fee of €50 for GBIF Delegates.* 
+*There is a limited number of places for GBIF delegates to attend the Technical Workshop. Anyone interested in attending should send an application to the GBIF Secretariat by Monday 06 August 2018 for consideration. Application form can be downloaded [here](xxxx).* 
 
 
 
