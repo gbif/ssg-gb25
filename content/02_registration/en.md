@@ -16,6 +16,8 @@ Additional delegates who wish to attend the official Governing Board meeting mus
 
 Click on the button below to register. 
 
+Please note that the registration closes on **3 October 2018**.
+
 ```styledYaml
 templates:
 - path: actions.html
@@ -26,6 +28,3 @@ templates:
 ```
 
 
-
-
-Please note that the registration closes on **3 October 2018**.
