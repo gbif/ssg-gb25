@@ -6,6 +6,13 @@ imageTitle: Vixen by Brian Arbuthnot
 imageLink: 
 ---
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+-----------------------
+
+
 # Travel and accommodation
 
 ## Venues
@@ -20,14 +27,9 @@ Location - [https://goo.gl/QUu2oZ](https://goo.gl/QUu2oZ)
 
 Events to take place at the Kilkenny Ormonde Hotel:
 
-- 15 October: Nodes Steering Group Meeting
-- 15 October: Budget Committee Meeting
-- 15 October: Science Committee Meeting
-- 15 October: Executive Committee Meeting - 1
+- 15 October: Nodes Steering Group Meeting, Budget Committee Meeting, Science Committee Meeting, Executive Committee Meeting - 1
 - 16 October: Governing Board Meeting - 1
-- 17 October: Executive Committee Meeting - 2
-- 17 October: Governing Board Meeting - 2
-- 17 October: Concluding Meeting Reception
+- 17 October: Governing Board Meeting - 2, Executive Committee Meeting - 2, Concluding Meeting Reception
 - 18 October: Public Symposium
 - 19 October: Technical Workshop - 1
 - 20 Ocotber: Technical Workshop - 2
