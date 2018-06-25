@@ -22,7 +22,7 @@ The National Biodiversity Data Centre also kindly invites participants to a publ
 
 A post-meeting excursion, for which a small charge will apply, will be offered to delegates on Friday 19 October to visit some peatland sites in the Irish Midlands. There will also be an option for those who do not wish to attend, to instead participate in a local heritage tour of Kilkenny City. 
 
-Please see the [Programme information page](../programme/) for detailed information on all events. 
+Please see the [Programme information page](https://gb25.gbif.org/en/programme/) for detailed information on all events. 
 
 **Registration for the events will close on 3 October 2018**
 
