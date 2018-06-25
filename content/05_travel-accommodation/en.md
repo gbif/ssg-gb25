@@ -185,7 +185,7 @@ There are several taxi companies operating in Kilkenny City. Here are a few shou
 
 If you wish to rent a bike in Kilkenny City, there is a bike hire service available in the town at a rate of €20.00 per day. Helmets, bike locks, high-visibility jackets and detailed maps are provided. 
 
-To book your rental visit www.kilkennycyclingtours.com/rentals/. 
+To book your rental visit [www.kilkennycyclingtours.com/rentals/](www.kilkennycyclingtours.com/rentals/). 
 
 
 
@@ -197,7 +197,7 @@ GB25 participants are responsible for preparing their own travel documentation r
 
 ### Visa
 
-The Irish Naturalisation and Immigration Service (INIS) is the organisation responsible for visa services in Ireland. Visit their website (www.inis.gov.ie) if you wish to check whether you require a visa or not to travel to Ireland. If so, the minimum requirements will need to be met. That includes: 
+The Irish Naturalisation and Immigration Service (INIS) is the organisation responsible for visa services in Ireland. Visit their website [www.inis.gov.ie](http://www.inis.gov.ie) if you wish to check whether you require a visa or not to travel to Ireland. If so, the minimum requirements will need to be met. That includes: 
 
 1. An application letter
    - This outlines why you want to travel, how the conference relates to your employment, and on what dates you will travel
