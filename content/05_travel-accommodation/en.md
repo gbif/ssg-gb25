@@ -185,7 +185,7 @@ There are several taxi companies operating in Kilkenny City. Here are a few shou
 
 If you wish to rent a bike in Kilkenny City, there is a bike hire service available in the town at a rate of €20.00 per day. Helmets, bike locks, high-visibility jackets and detailed maps are provided. 
 
-To book your rental visit [www.kilkennycyclingtours.com/rentals/](www.kilkennycyclingtours.com/rentals/). 
+To book your rental visit [https://kilkennycyclingtours.com/rentals/](https://kilkennycyclingtours.com/rentals/). 
 
 
 
