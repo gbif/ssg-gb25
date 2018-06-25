@@ -132,7 +132,7 @@ Price: €100 Standard; €50.00 GBIF Delegate (Limited number of places. Price 
 
 *Lead by Prof. Nicklaus E. Zimmermann, the two-day course will cover best practice approaches to utilising GBIF-mediated biodiversity data and species distribution modelling. Conducted though R, the focal areas covered will include effective data management, assessing data quality and quantifying bias, data visualisation, habitat suitability and distribution modelling.*
 
-*There is a limited number of places for GBIF delegates to attend the Technical Workshop. Anyone interested in attending should send an application to the GBIF Secretariat by 31 July 2018 for consideration. Application form can be downloaded [here](https://gb25.gbif.org/src/raw/GB25_Technical_workshop_application_form.doc).* 
+*There is a limited number of places for GBIF delegates to attend the Technical Workshop. Anyone interested in attending should send an application to the GBIF Secretariat by 31 July 2018 for consideration. Application form can be downloaded [here](https://gb25.gbif.org/raw/GB25_Technical_workshop_application_form.doc).* 
 
 
 
