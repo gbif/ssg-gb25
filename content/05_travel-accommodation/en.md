@@ -70,7 +70,7 @@ Location - https://goo.gl/maps/dmztYnNuw5v
 
 ## Hotels
 
-The local organizers recommend one of the listed hotels for accommodation. For a limited time a number of rooms in each have been pre-booked for delegates. Please make your reservation in advance directly with the conference hotels by using the specific reservation codes. Contact details for each of the hotels have been provided for. 
+The local organizers recommend one of the listed hotels for accommodation. For a limited time a number of rooms in each have been pre-booked for delegates. Please make your reservation in advance directly with the conference hotels by using the specific reservation codes. Booking for each of the listed accommodation options is to be completed via email or by calling those hotels directly. Contact details for each of the hotels have been provided for. 
 
 
 
@@ -80,7 +80,8 @@ Kilkenny
 Ireland
 Location - [https://goo.gl/QUu2oZ](https://goo.gl/QUu2oZ)
 
-- Rates: €75.00 per night for single room, €85.00 per night for a double room
+- Rates: 14th-18th Oct: €85.00 per night for a double room / €75.00 for a single room
+- Rates: 19th Oct: €105.00 per night for double room / €95.00 per night for a single room
 - Booking: reservations@kilkennyormonde.com or contact the hotel at +00353567750200
 - Booking code: GBIF – Group Reservation Number 357350
 - Bookings should be made by Monday 3rd September 2018 at the latest to avail of corporate rate. Bookings made after this point will receive our best available rate at the time of booking.
