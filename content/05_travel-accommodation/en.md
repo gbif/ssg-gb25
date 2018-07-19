@@ -82,7 +82,7 @@ Location - [https://goo.gl/QUu2oZ](https://goo.gl/QUu2oZ)
 
 - Rates: 14th-18th Oct: €85.00 per night for a double room / €75.00 for a single room
 - Rates: 19th Oct: €105.00 per night for double room / €95.00 per night for a single room
-- Booking: reservations@kilkennyormonde.com or contact the hotel at +00353567750200
+- Booking: [reservations@kilkennyormonde.com](mailto:reservations@kilkennyormonde.com) or contact the hotel at +00353567750200
 - Booking code: GBIF – Group Reservation Number 357350
 - Bookings should be made by Monday 3rd September 2018 at the latest to avail of corporate rate. Bookings made after this point will receive our best available rate at the time of booking.
 
@@ -101,7 +101,7 @@ Location - https://goo.gl/maps/2PM9oMk5wNw
 - Rates: 13th Oct: €110.00 per person sharing / €210.00 per single
 - Rates: 14th Oct – 18th Oct: €100.00 per double / €90.00 per single
 - Rates: 19th Oct: €160.00 per double / €150.00 per single
-- Booking:  Email the hotel at reservations@pembrokekilkenny.com or contact the hotel at +00353561183500 
+- Booking:  Email the hotel at [reservations@pembrokekilkenny.com](mailto:reservations@pembrokekilkenny.com) or contact the hotel at +00353561183500 
 - Booking code: GBIF
 - Bookings should be made by 31st August at the latest 
 
@@ -117,7 +117,7 @@ Location - https://goo.gl/maps/vgVHL3DSiwj
 
 - Rates: 14th Oct – 18th Oct: €90.00 per double / €80.00 per single
 - Rates: 19th Oct: €160.00 per double / €150.00 per single
-- Booking: reservations@kilkennyhibernianhotel.com or contact the hotel at +353567771888
+- Booking: [reservations@kilkennyhibernianhotel.com](mailto:reservations@kilkennyhibernianhotel.com) or contact the hotel at +353567771888
 - Booking code: GBIF
 - Bookings should be made by Friday 14th September at the latest
 
@@ -130,7 +130,7 @@ Ireland
 Location - https://goo.gl/maps/MmLtovmnngQ2
 
 - Rates: 14th – 17th Oct: €90.00 per double / €50.00 per single     
-- Booking: reservations@langtons.ie or +00353567765133
+- Booking: [reservations@langtons.ie](mailto:reservations@langtons.ie) or +00353567765133
 - Booking code: GBIF
 - Bookings should be made by 31st August at the latest 
 
