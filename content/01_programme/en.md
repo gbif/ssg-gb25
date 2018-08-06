@@ -121,6 +121,8 @@ Venue: Kilbride Suite, Kilkenny Ormonde Hotel
 
 *This public symposium is a full-day event and will highlight some of the work that GBIF and its global network is doing to mobilise biodiversity data for research and to inform decision making for global biodiversity action. It will also showcase where data has been used at the regional, national and local levels to engage communities and improve knowledge of how biodiversity is changing.*
 
+*Syposium programme can be downloaded* [here](https://gb25.gbif.org/raw/GB25_Public_Symposium_Programme_WEB.pdf)
+
 -----------------------
 
 ### Friday 19 October 2018
@@ -133,6 +135,8 @@ Price: €100 Standard; €50.00 GBIF Delegate (Limited number of places. Price 
 *Lead by Prof. Nicklaus E. Zimmermann, the two-day course will cover best practice approaches to utilising GBIF-mediated biodiversity data and species distribution modelling. Conducted though R, the focal areas covered will include effective data management, assessing data quality and quantifying bias, data visualisation, habitat suitability and distribution modelling.*
 
 *There is a limited number of places for GBIF delegates to attend the Technical Workshop. Anyone interested in attending should send an application to the GBIF Secretariat by 31 July 2018 for consideration. Application form can be downloaded [here](https://gb25.gbif.org/raw/GB25_Technical_workshop_application_form.doc).* 
+
+*Technical Workshop flyer can be downloaded* [here](https://gb25.gbif.org/raw/Biodiversity_Informatics_flyer_June_2018.pdf)
 
 
 
