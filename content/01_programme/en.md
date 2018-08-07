@@ -136,7 +136,7 @@ Price: €100 Standard; €50.00 GBIF Delegate (Limited number of places. Price 
 
 *There is a limited number of places for GBIF delegates to attend the Technical Workshop. Anyone interested in attending should send an application to the GBIF Secretariat by 31 July 2018 for consideration. Application form can be downloaded [here](https://gb25.gbif.org/raw/GB25_Technical_workshop_application_form.doc).* 
 
-*Technical Workshop flyer can be downloaded* [here](https://gb25.gbif.org/raw/Biodiversity_Informatics_flyer_June_2018.pdf)
+*Technical Workshop flyer can be downloaded* [here](https://gb25.gbif.org/raw/Biodiversity_Informatics_Flyer_June_2018.pdf)
 
 
 
