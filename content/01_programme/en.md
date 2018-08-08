@@ -109,7 +109,7 @@ Venue: Stoney Suite, Kilkenny Ormonde Hotel
 Time: 17:30-19:30
 Venue: Kilkenny Ormonde Hotel
 
-*All Governing Board delegates and observers are invite are invited to join the casual networking event*
+*All Governing Board delegates and observers are invited to join the casual networking event*
 
 -----------------------
 
