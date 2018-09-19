@@ -195,7 +195,7 @@ images:
 
 *One of the best and unique features of Kilkenny is its compactness allowing you to explore everything it has to offer on foot – which is also one of the principle reasons why we decided to bring GBIF’s GB25 to this old city. No excuses for getting lost! 
 Pat Tynan, a local historian, will be your tour guide for this walking excursion around Kilkenny City. With some 35 years of experience of storytelling and presenting the rich history and culture of Kilkenny, Pat will undoubtedly bring the history of Kilkenny to life for you on this short and insightful tour. So why not join other delegates in this exploration of Ireland’s old medieval capital, its narrow streetscapes, historical buildings and noteworthy landmarks. 
-Information on the tour and tour guide is available at [www.kilkennywalkingtours.ie](http://www.kilkennywalkingtours.ie)
+Information on the tour and tour guide is available at [www.kilkennywalkingtours.ie](http://www.kilkennywalkingtours.ie)*
 
 *Time: 11:00hrs (& 14:00hrs if there is high demand) 
 *Duration: 70-80 minutes
