@@ -156,8 +156,8 @@ images:
 ```
 
 
-*08.45 - assemble in the main lobby of Kilkenny Ormonde Hotel
-*09.00 - Coach departs
+*08.45 - assemble in the main lobby of Kilkenny Ormonde Hotel*
+*09.00 - Coach departs*
 
 *The sites visited include:*
 *1.	**Abbeyleix Bog** - a local community led example of restoration of an active raised bog,*
@@ -166,16 +166,16 @@ images:
 *4.	**Lough Boora Parklands** - a large-scale rehabilitated peatland site, post commercial production.*
 
 *Excursion guides:*
-*- **Dr. Pete Foss**, Principal Ecologists - Foss Environmental Consulting, an internationally recognised expert in peatland ecology, conservation and management will accompany the excursion. 
-*- **Mr. Chris Uys**, Development Officer - Community Wetlands Forum, will meet the excursion at Abbeyleix Bog to introduce the work done by the local community to restore the site.
+*- **Dr. Pete Foss**, Principal Ecologists - Foss Environmental Consulting, an internationally recognised expert in peatland ecology, conservation and management will accompany the excursion.* 
+*- **Mr. Chris Uys**, Development Officer - Community Wetlands Forum, will meet the excursion at Abbeyleix Bog to introduce the work done by the local community to restore the site.*
 *- **Mr. Tom Egan**, Land Project Manager - Bord na Móna, will join the excursion at Lough Boora Parklands to talk about the on-site land management issues and Bord na Móna’s activities.*
 
 *Lunch will be provided on the day in a local Irish Gastropub. Please choose from the following options and inform one of the organisers at the Icebreaker registration desk (Monday 15 October):* 
-*1.	Beef and Guinness casserole with creamy mash potato
-*2.	Chicken and mushroom vol au vents served with house salad and hand cut chips
-*3.	Fillet of Salmon, creamy mash, mixed vegetables and a dill cream sauce
-*4.	Goats cheese and sundried tomato salad 
-*5.	Spinach & sundried tomato quiche with house salad and baked potato
+*1.	Beef and Guinness casserole with creamy mash potato*
+*2.	Chicken and mushroom vol au vents served with house salad and hand cut chips*
+*3.	Fillet of Salmon, creamy mash, mixed vegetables and a dill cream sauce*
+*4.	Goats cheese and sundried tomato salad *
+*5.	Spinach & sundried tomato quiche with house salad and baked potato*
 
 *Price: €25.00 per person.*
 
@@ -202,8 +202,8 @@ Information on the tour and tour guide is available at [www.kilkennywalkingtours
 
 *Price: €5.00 per person
 *Payment options:
-*1.	Online at http://www.biodiversityireland.ie/events/ (preferred); see “[PRIVATE EVENT] Excursion B…”
-*2.	In cash at the Icebreaker registration desk
+*1.	Online at http://www.biodiversityireland.ie/events/ (preferred); see “[PRIVATE EVENT] Excursion B…”*
+*2.	In cash at the Icebreaker registration desk*
 
 
 -----------------------
