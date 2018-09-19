@@ -146,21 +146,29 @@ The host warmly welcomes you to participate in one of the two arranged excursion
 
 *The National Biodiversity Data Centre offers delegates attending the 25th Governing Board meeting of the Global Biodiversity Information Facility an excursion to visit the hidden heartlands of Ireland. The trip will provide an introduction to Ireland’s peatlands which are of high international conservation importance and found in high concentration in Ireland’s midlands.*
 
-*Tour programme can be downloaded* [here].
+*Tour programme can be downloaded* [here](https://gb25.gbif.org/raw/GB25_ExcursionA.pdf).
+
+```styledYaml
+images: 
+- title: Lough Boora
+  url: /images/Lough_Boor.jpg
+  link: 
+```
+
 
 *08.45 - assemble in the main lobby of Kilkenny Ormonde Hotel
 *09.00 - Coach departs
 
 *The sites visited include:*
-*1.	**Abbeyleix Bog** - a local community led example of restoration of an active raised bog, 
-*2.	**Slieve Bloom Mountains** – land use pressures on conservation of upland blanket bog, 
-*3.	**Currabeg Bog** - the commercial exploitation of a raised bog and 
-*4.	**Lough Boora Parklands** - a large-scale rehabilitated peatland site, post commercial production.
+*1.	**Abbeyleix Bog** - a local community led example of restoration of an active raised bog,*
+*2.	**Slieve Bloom Mountains** – land use pressures on conservation of upland blanket bog,*
+*3.	**Currabeg Bog** - the commercial exploitation of a raised bog and *
+*4.	**Lough Boora Parklands** - a large-scale rehabilitated peatland site, post commercial production.*
 
 *Excursion guides:*
-**_Dr. Pete Foss**, Principal Ecologists - Foss Environmental Consulting, an internationally recognised expert in peatland ecology, conservation and management will accompany the excursion. 
-**Mr. Chris Uys**, Development Officer - Community Wetlands Forum, will meet the excursion at Abbeyleix Bog to introduce the work done by the local community to restore the site.
-**Mr. Tom Egan**, Land Project Manager - Bord na Móna, will join the excursion at Lough Boora Parklands to talk about the on-site land management issues and Bord na Móna’s activities.*
+*- **Dr. Pete Foss**, Principal Ecologists - Foss Environmental Consulting, an internationally recognised expert in peatland ecology, conservation and management will accompany the excursion. 
+*- **Mr. Chris Uys**, Development Officer - Community Wetlands Forum, will meet the excursion at Abbeyleix Bog to introduce the work done by the local community to restore the site.
+*- **Mr. Tom Egan**, Land Project Manager - Bord na Móna, will join the excursion at Lough Boora Parklands to talk about the on-site land management issues and Bord na Móna’s activities.*
 
 *Lunch will be provided on the day in a local Irish Gastropub. Please choose from the following options and inform one of the organisers at the Icebreaker registration desk (Monday 15 October):* 
 *1.	Beef and Guinness casserole with creamy mash potato
@@ -169,13 +177,21 @@ The host warmly welcomes you to participate in one of the two arranged excursion
 *4.	Goats cheese and sundried tomato salad 
 *5.	Spinach & sundried tomato quiche with house salad and baked potato
 
-*Price: €25.00 per person. 
-*Payment options:
-*1.	Online at [http://www.biodiversityireland.ie/events/](http://www.biodiversityireland.ie/events/) (preferred); see “[PRIVATE EVENT] Excursion A…”
-*2.	In cash at the Icebreaker registration desk
+*Price: €25.00 per person.*
+
+*Payment options:*
+*1.	Online at [http://www.biodiversityireland.ie/events/](http://www.biodiversityireland.ie/events/) (preferred); see “[PRIVATE EVENT] Excursion A…”*
+*2.	In cash at the Icebreaker registration desk*
 
 
 **Excursion B**: **Kilkenny Heritage Tour** 
+
+```styledYaml
+images: 
+- title: Kilkenny Heritage Tour
+  url: /images/9528527.jpg
+  link: 
+```
 
 *One of the best and unique features of Kilkenny is its compactness allowing you to explore everything it has to offer on foot – which is also one of the principle reasons why we decided to bring GBIF’s GB25 to this old city. No excuses for getting lost! 
 Pat Tynan, a local historian, will be your tour guide for this walking excursion around Kilkenny City. With some 35 years of experience of storytelling and presenting the rich history and culture of Kilkenny, Pat will undoubtedly bring the history of Kilkenny to life for you on this short and insightful tour. So why not join other delegates in this exploration of Ireland’s old medieval capital, its narrow streetscapes, historical buildings and noteworthy landmarks. 
