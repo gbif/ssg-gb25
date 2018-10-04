@@ -24,5 +24,5 @@ A post-meeting excursion, for which a small charge will apply, will be offered t
 
 Please see the [Programme information page](https://gb25.gbif.org/en/programme/) for detailed information on all events. 
 
-**Registration for the events will close on 3 October 2018**
+**Registration for the events closed on 3 October 2018**
 
