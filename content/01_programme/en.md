@@ -92,12 +92,12 @@ Venue: Medieval Mile Museum
 
 ### Wednesday 17 October 2018
 
-**Governing Board meeting Day 2**
+**Governing Board meeting Day 2, incl. Public Session**
 Time: 09:00-17:00
 Venue: Kilbride Suite, Kilkenny Ormonde Hotel
 
 *The meeting is open to Governing Board delegates and observers*
-*The Public Session is open to the public*
+*The Public Session is open to the public. The Public Session programme can be downloaded* [here](https://gb25.gbif.org/raw/Public_session_programme.pdf)
 
 **Executive Committee meeting 2**
 Time: 17:00-19:30
@@ -121,7 +121,7 @@ Venue: Kilbride Suite, Kilkenny Ormonde Hotel
 
 *This public symposium is a full-day event and will highlight some of the work that GBIF and its global network is doing to mobilise biodiversity data for research and to inform decision making for global biodiversity action. It will also showcase where data has been used at the regional, national and local levels to engage communities and improve knowledge of how biodiversity is changing.*
 
-*Syposium programme can be downloaded* [here](https://gb25.gbif.org/raw/GB25_Public_Symposium_Programme_WEB.pdf)
+*Symposium programme can be downloaded* [here](https://gb25.gbif.org/raw/GB25_Public_Symposium_Programme_WEB.pdf)
 
 -----------------------
 
