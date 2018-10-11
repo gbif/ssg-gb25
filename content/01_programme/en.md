@@ -116,7 +116,7 @@ Venue: Kilkenny Ormonde Hotel
 ### Thursday 18 October 2018
 
 **Public symposium: "Biodiversity loss in a changing world: local data, global action"**
-Time: 09:30-17:30
+Time: 09:15-17:10
 Venue: Kilbride Suite, Kilkenny Ormonde Hotel
 
 *This public symposium is a full-day event and will highlight some of the work that GBIF and its global network is doing to mobilise biodiversity data for research and to inform decision making for global biodiversity action. It will also showcase where data has been used at the regional, national and local levels to engage communities and improve knowledge of how biodiversity is changing.*
