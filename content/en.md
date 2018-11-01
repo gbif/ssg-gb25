@@ -16,6 +16,14 @@ The National Biodiversity Data Centre, on behalf of Ireland, hosted the **25th m
 
 The official Governing Board meeting took place on 16-17 October 2018 with representation from 25 Voting Participants, 3 Associate Country Participants, 11 Other Associate Participants and two observer countries. A total of 96 persons attended the meeting. 
 
+
+```styledYaml
+images: 
+- title: GB25 group photo by Dylan Vaughan
+  url: /images/5-BX0I3189_small.jpg
+  link: https://dylanvaughan.photoshelter.com
+```
+
 The National Biodiversity Data Centre hosted the public symposium **"Biodiversity loss in a changing world: local data, global action"**, on 18 October. 
 
 Final documents, presentations and the recordings from the GBIF Public sessions will be made available shortly.
